@@ -2,7 +2,7 @@ Olá, meu nome é Anderson Bessa. Estou cursando Engenharia da Computação no I
 
 🚀 Trabalhando atualmente: Bolsita no Laboratório de Processamento de Imagens, Sinais e Computação Aplicada (LAPISCO). IFCE Fortaleza.
 
-🔥 Estudando atualmente: Foco em Inteligência Artificial <OpenCv, Machine Learn, Deep Learn... entre outros>
+🔥 Estudando atualmente: Foco em Inteligência Artificial <Visão Computacional, Machine Learn, Deep Learn... entre outros>
 
 ✈️ Inglês Avançado.
 
