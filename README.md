@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: Foco em Inteligência Artificial <Visão Computacional, Machine Learn, Deep Learn... entre outros
+  🔥 Estudando atualmente: Foco em Inteligência Artificial (Visão Computacional, Machine Learn, Deep Learn... entre outros)
 </p>
 
 <p align="left">
