@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Trabalhando atualmente: Bolsita no Laboratório de Processamento de Imagens, Sinais e Computação Aplicada (LAPISCO). IFCE Fortaleza.
+  🚀 Trabalhando atualmente: Bolsista no Laboratório de Processamento de Imagens, Sinais e Computação Aplicada (LAPISCO). IFCE Fortaleza.
 </p>
 
 <p align="left">
