@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  ✈️ Inglês Avançado.
+  ✈️ Inglês Intermediário.
 </p>
 
 <p align="left">
