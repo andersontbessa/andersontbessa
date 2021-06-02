@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🚀 Trabalhando atualmente: Bolsista no Laboratório de Processamento de Imagens, Sinais e Computação Aplicada (LAPISCO). IFCE Fortaleza.
-</p>
-
-<p align="left">
   🔥 Estudando atualmente: Foco em Inteligência Artificial (Visão Computacional, Machine Learn, Deep Learn... entre outros)
 </p>
 
