@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: Foco em Inteligência Artificial (Data Science, Processamento Digital de Imagens, Machine Learning, Deep Learning... entre outros)
+  🔥 Estudando atualmente: Foco em Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros)
 </p>
 
 <p align="left">
