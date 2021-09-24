@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros), ReactJS & React Native, Flutter entre outros.
+  🔥 Estudando atualmente: Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros), NodeJS & React Native, API REST e os serviços da AWS(Amazon Web Services), entre outros.
 </p>
 
 <p align="left">
-  ✈️ Inglês Intermediário.
+  ✈️ Inglês Avançado.
 </p>
 
 <p align="left">
