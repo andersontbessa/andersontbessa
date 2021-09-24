@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros), NodeJS & React Native, API REST e os serviços da AWS(Amazon Web Services), entre outros.
+  🔥 Estudos focados em: Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros), NodeJS & React Native, API REST e os serviços da AWS(Amazon Web Services), entre outros.
 </p>
 
 <p align="left">
