@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  ✈️ Inglês Avançado.
+  ✈️ Inglês avançado.
 </p>
 
 <p align="left">
