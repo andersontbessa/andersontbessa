@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🔥 Estudos focados em: Inteligência Artificial (Data Science, Processamento Digital de Sinais, Machine Learning, Deep Learning... entre outros), NodeJS & React Native, API REST, DOCKER e os serviços da AWS(Amazon Web Services), entre outros.
+  🔥 Estudos focados em: Inteligência Artificial (Data Science, Machine Learning, Deep Learning, Sistemas de Recomendação, Processamento Digital de Imagens... entre outros), API REST e Deploy de Modelo de Machine Learning em Produção, DOCKER e os serviços da AWS(Amazon Web Services), entre outros.
 </p>
 
 <p align="left">
-  ✈️ Inglês avançado.
+  ✈️ Inglês Intermediário.
 </p>
 
 <p align="left">
