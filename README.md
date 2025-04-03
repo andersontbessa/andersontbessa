@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudos focados em: Inteligência Artificial (Data Science, Machine Learning, Deep Learning, Sistemas de Recomendação, Processamento Digital de Imagens... entre outros), API REST e Deploy de Modelo de Machine Learning em Produção, DOCKER e os serviços da AWS(Amazon Web Services), entre outros.
+  🔥 Sólida experiência em engenharia de dados, business intelligence (BI) e data science, atualmente atuando como engenheiro de dados e analista de dados e BI em projetos de grande escala, com forte atuação em modelagem de dados, ETL, e visualização de dados. Com ampla vivência no uso de plataformas em nuvem como Azure e AWS, assim como microsserviços com docker e ferramentas como Power BI, Apache Spark, e Databricks, busca sempre implementar soluções eficazes para organização.
 </p>
 
 <p align="left">
