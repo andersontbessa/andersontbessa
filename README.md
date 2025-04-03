@@ -14,6 +14,10 @@
 </p>
 
 <p align="left">
+⚠️  ATENÇÃO!<br>
+  Devido à alta demanda de projetos em instituições, tenho atualizado mais repositórios privados e dado menos ênfase ao compartilhamento de repositórios públicos no meu perfil pessoal do GitHub.</p>
+
+<p align="left">
 💌  Quer falar comigo?<br>
   Me mande mensagem com o email a baixo ⤵️
 </p>
