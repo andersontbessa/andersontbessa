@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é Anderson Bessa. <br>
-  Estou cursando Engenharia da Computação no <strong> Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). </strong>
+  Bacharelado em Engenharia da Computação no <strong> Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). </strong>
 </p>
 
 <p align="left">
